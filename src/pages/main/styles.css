@@ -1,0 +1,41 @@
+.dishes-list {
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+.dishes-list article{
+    background: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.dishes-list article p {
+    font-size: 16px;
+    color: #999999;
+    margin-top: 5px;
+    line-height: 24px;
+}
+
+.dishes-list article a {
+    height: 24px;
+    border-radius: 5px;
+    border: 2px solid olive;
+    background: none;
+    margin-top: 10px;
+    color: olive;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.2s;
+}
+
+.dishes-list article a:hover{
+    background: olive;
+    color: white;
+}
