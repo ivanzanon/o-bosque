@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Work in progress]
+
+### obosque
+WEB Module for the restaurant "O Bosque". This project aim to solve the definition of the cost of products offered by a restaurant.
+---------
 
 ## Available Scripts
 
